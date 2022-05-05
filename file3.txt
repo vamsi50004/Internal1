@@ -1,0 +1,9 @@
+Git Hub: 
+It is a central repository that is available over the interneyt, which allows users from fifferen parts of the world to push files remotely from anty place.
+**. It is Version controlled system.
+**. The performance of git hub is high.
+**. It even offers good securith for the data that you host over it.
+
+Git bash:
+It is a local repository whic is used to push files into the central repository by a process called cloning.
+**. the cloning is done to make sure taht the central repository is available virtually in our local system. 
